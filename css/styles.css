@@ -1,0 +1,23 @@
+h1 {
+	color:red;
+	background:yellow;
+	margin-top: 30px;
+}
+h2{
+	margin-top:30px;
+	color: green;
+}
+h3{
+	margin-top:30px;
+	color: yellow;
+	background:black;
+	text-align: center;
+	width:300px;
+	border-radius: 100px;
+}
+
+body{
+	color: red;
+	font-family: roboto;
+	font-size: 1em;
+}
